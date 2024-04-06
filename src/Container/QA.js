@@ -2,8 +2,7 @@ import React from "react";
 import { propTypes } from "react-bootstrap/esm/Image";
 import DetailQuestion from "./DetailQuestion";
 
-QA.propTypes = {};
-function QA(props) {
+function QA() {
     const questionList = [
         {
             id: 1,

@@ -1,5 +1,4 @@
 import React from "react";
-import { propTypes } from "react-bootstrap/esm/Image";
 import { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import Collapse from 'react-bootstrap/Collapse';
